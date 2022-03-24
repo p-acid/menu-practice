@@ -6,7 +6,8 @@ const GlobalStyle = createGlobalStyle`
         justify-content: center;
         align-items: center;
         height: 90vh;
-        background-color: gray
+        background-color: gray;
+        font-family: 'Gothic A1', sans-serif;
     }
 `;
 
